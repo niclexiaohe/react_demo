@@ -1,3 +1,15 @@
+1.npm install :下载package.json文件中依赖的包
+2.npm start 或 npm run start ：启动项目
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
